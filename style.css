@@ -1,0 +1,13 @@
+h3
+{
+    font-size: 25px !important;
+}
+
+canvas
+{
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    border-width: 10px;
+    border-style: ridge;
+}
